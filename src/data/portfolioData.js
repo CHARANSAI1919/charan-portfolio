@@ -17,7 +17,7 @@ export const personalData = {
   cgpa: "9.17",
   cgpaContext: "CGPA: 9.17 till 6th Semester",
   location: "Chennai, Tamil Nadu, India",
-  phone: "+91 9440940000",
+  phone: "+91 9440940001",
   email: "charans.nallaguntla@gmail.com",
   github: "https://github.com/CHARANSAI1919",
   linkedin: "https://www.linkedin.com/in/nallaguntla-charan-sai-765852287/",
